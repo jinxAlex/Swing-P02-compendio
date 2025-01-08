@@ -1,7 +1,7 @@
 /**
  * VentanaPrincipal.java
  * 17 nov 2024 12:39:23
- * @author Alejandro Fernández Sánchez
+ * @author Alejandro
  */
 package ventana;
 

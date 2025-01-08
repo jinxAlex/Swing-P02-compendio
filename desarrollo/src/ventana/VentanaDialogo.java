@@ -1,7 +1,7 @@
 /**
  * VentanaDialogo.java
  * 17 nov 2024 12:41:08
- * @author Alejandro Fernández Sánchez
+ * @author Alejandro
  */
 package ventana;
 

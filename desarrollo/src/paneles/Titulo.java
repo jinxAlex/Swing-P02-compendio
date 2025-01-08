@@ -1,7 +1,7 @@
 /**
  * Titulo.java
  * 17 nov 2024 12:41:44
- * @author Alejandro Fernández Sánchez
+ * @author Alejandro
  */
 package paneles;
 

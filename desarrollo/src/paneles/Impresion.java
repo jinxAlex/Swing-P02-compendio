@@ -1,7 +1,7 @@
 /**
  * Impresion.java
  * 17 nov 2024 12:42:10
- * @author Alejandro Fernández Sánchez
+ * @author Alejandro
  */
 package paneles;
 
