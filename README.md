@@ -4,6 +4,12 @@
 El proyecto es una aplicación para dar de alta reservas en un hotel.
 
 ## Contenido de la publicación
+Esta publicación cuenta con 4 directorios:
+
+### Documentación técina
+### Desarrollo
+### Documentos
+### Ejecutable
 
 ## Desarrollo del proyecto
 
