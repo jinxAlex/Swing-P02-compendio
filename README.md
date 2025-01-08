@@ -13,12 +13,15 @@ El proyecto es una aplicación para dar de alta reservas en un hotel.
 Tras a ver clonado el repositorio, se debe de navegar hasta la carpeta del ``proyecto/ejecutables`` y posteriormente se debe hacer doble click sobre el archivo .jar.
 
 ### Línea de comandos
-1. Una vez
-2. Navegue a la carpeta del proyecto
+1. Primeramente se debe de clonar el proyecto
+   ```
+   git clone https://github.com/jinxAlex/Swing-P02-compendio.git
+   ```
+3. Navegue a la carpeta del proyecto
    ```
    cd Swing-P02-compendio/ejecutable
    ```
-3. Ejecute el archivo introduciendo el siguiente comando en la línea de comandos
+4. Ejecute el archivo introduciendo el siguiente comando en la línea de comandos
    ```
    ejecutable.jar
    ```
@@ -27,6 +30,7 @@ Tras a ver clonado el repositorio, se debe de navegar hasta la carpeta del ``pro
 - Swing
   
 ## Versionado
+Esta es la versión 1.0
 
 ## Autores
 
