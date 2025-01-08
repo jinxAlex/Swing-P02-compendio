@@ -10,14 +10,18 @@ El proyecto es una aplicación para dar de alta reservas en un hotel.
 ## Despliegue (como ejecutar la aplicación desde el ejecutable)
 
 ### Windows
-Haciendo doble click sobre el archivo .jar ubicado en el directorio ``ejecutables``
+Tras a ver clonado el repositorio, se debe de navegar hasta la carpeta del ``proyecto/ejecutables`` y posteriormente se debe hacer doble click sobre el archivo .jar.
 
 ### Línea de comandos
-1. Navegue a la carpeta del proyecto
+1. Una vez
+2. Navegue a la carpeta del proyecto
    ```
    cd Swing-P02-compendio/ejecutable
    ```
-3. 
+3. Ejecute el archivo introduciendo el siguiente comando en la línea de comandos
+   ```
+   ejecutable.jar
+   ```
 ## Construido con
 - Java
 - Swing
