@@ -13,7 +13,11 @@ El proyecto es una aplicación para dar de alta reservas en un hotel.
 Haciendo doble click sobre el archivo .jar ubicado en el directorio ``ejecutables``
 
 ### Línea de comandos
-
+1. Navegue a la carpeta del proyecto
+   ```
+   cd Swing-P02-compendio/ejecutable
+   ```
+3. 
 ## Construido con
 - Java
 - Swing
