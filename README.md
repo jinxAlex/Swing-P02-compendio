@@ -1,6 +1,7 @@
-# Título del Proyecto
+# Swing P02 Compendio
 
 ## Descripción del proyecto
+El proyecto es una aplicación para dar de alta reservas en un hotel.
 
 ## Contenido de la publicación
 
