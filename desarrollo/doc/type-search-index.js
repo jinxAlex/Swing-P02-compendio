@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"paneles","l":"DatosCliente"},{"p":"paneles","l":"DatosHabitacion"},{"p":"paneles","l":"ExtrasChild"},{"p":"paneles","l":"Impresion"},{"p":"ventana","l":"Main"},{"p":"paneles","l":"Titulo"},{"p":"ventana","l":"VentanaDialogo"},{"p":"ventana","l":"VentanaPrincipal"}];updateSearchResults();
