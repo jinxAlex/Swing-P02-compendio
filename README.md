@@ -49,6 +49,7 @@ Esta es la versión 1.0
 ## Autores
 
 ## Licencia
+Este proyecto está bajo licencia gratuita
 
 ## Recursos adicionales:
 
