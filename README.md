@@ -47,7 +47,7 @@ Tras a ver clonado el repositorio, se debe de navegar hasta la carpeta del ``pro
 Esta es la versión 1.0
 
 ## ✏️​ Autores
-
+[Alejandro](https://github.com/jinxAlex)
 ## 📝 Licencia
 Este proyecto está bajo licencia gratuita
 
