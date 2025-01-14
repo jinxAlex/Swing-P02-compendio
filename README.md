@@ -1,6 +1,6 @@
 # Swing P02 Compendio
 
-## Descripción del proyecto
+## ✍️​ Descripción del proyecto
 El proyecto es una aplicación para dar de alta reservas en un hotel.
 
 ## Contenido de la publicación
@@ -21,7 +21,7 @@ Este directorio cuenta con el ejecutable de la aplicación.
 ## Desarrollo del proyecto
 Este programa ha sido desarrollado en Java
 
-## Despliegue (como ejecutar la aplicación desde el ejecutable)
+## 🛠️ Despliegue (como ejecutar la aplicación desde el ejecutable)
 
 ### Windows
 Tras a ver clonado el repositorio, se debe de navegar hasta la carpeta del ``proyecto/ejecutables`` y posteriormente se debe hacer doble click sobre el archivo .jar.
@@ -39,16 +39,16 @@ Tras a ver clonado el repositorio, se debe de navegar hasta la carpeta del ``pro
    ```
    ejecutable.jar
    ```
-## Construido con
+## 📦​ Construido con
 - Java
 - Swing
   
-## Versionado
+## 💻​ Versionado
 Esta es la versión 1.0
 
-## Autores
+## ✏️​ Autores
 
-## Licencia
+## 📝 Licencia
 Este proyecto está bajo licencia gratuita
 
 ## Recursos adicionales:
