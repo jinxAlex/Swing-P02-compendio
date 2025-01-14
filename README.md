@@ -7,11 +7,19 @@ El proyecto es una aplicación para dar de alta reservas en un hotel.
 Esta publicación cuenta con 4 directorios:
 
 ### Documentación técina
+El javadoc se encuentra en este directorio, aquí se explica todo lo necesario sobre el código fuenre.
+
 ### Desarrollo
+En este directorio se ubica el código fuente de la aplicación.
+
 ### Documentos
+Este directorio cuenta con la documentación de Usabilidad
+
 ### Ejecutable
+Este directorio cuenta con el ejecutable de la aplicación.
 
 ## Desarrollo del proyecto
+Este programa ha sido desarrollado en Java
 
 ## Despliegue (como ejecutar la aplicación desde el ejecutable)
 
